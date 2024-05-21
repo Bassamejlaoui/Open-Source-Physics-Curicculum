@@ -1,6 +1,6 @@
 # Open Physics Self Path
 
-This comprehensive, self-paced curriculum aims to provide a robust foundation in physics using freely available online resources. Whether you're preparing for a career in physics or expanding your knowledge of the universe, this curriculum guides you through essential topics in the field.
+***This comprehensive, self-paced curriculum aims to provide a robust foundation in physics using freely available online resources. Whether you're preparing for a career in physics or expanding your knowledge of the universe, this curriculum guides you through essential topics in the field.***
 
 ## Curriculum Overview
 
